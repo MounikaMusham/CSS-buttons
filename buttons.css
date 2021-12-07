@@ -1,0 +1,43 @@
+.one{
+    background-color: blue;
+    color: white;
+    height: 50px;
+    width: 100px;
+    border: rgb(250, 244, 244) solid 5px;
+    border-radius: 8px;
+    font-size: 15px;
+    font-weight: bold;
+    text-align: center;
+    margin-top:10px ;
+
+}
+.div{
+    background-color: lightblue;
+    text-align: center;
+    width: 700px;
+    height: 70px;
+    margin-left: 300px ;
+    margin-top: 40px;
+    border-radius: 10px;
+
+}
+a button:hover{
+    background-color: green;
+    cursor: pointer;
+}
+a button:visited{
+    background-color: rgb(128, 0, 96);
+    cursor: pointer;
+}
+a button:active{
+    background-color: orange;
+    cursor: pointer;
+}
+h1{
+    text-align: center;
+    color: brown;
+    background-color: rgb(255, 251, 0);
+    font-weight: bold;
+    font-style: italic;
+    font-size: 30px;
+}
